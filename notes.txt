@@ -11,6 +11,7 @@ Html can be useful when it comes to organising the main structure of the web pag
 
 2. What does HTML stand for?
 
+
 ANSWER:
 
 HyperText Markup language
@@ -32,6 +33,7 @@ First Heading
 <p>Hello world!</p>
 
 ANSWER:
+
 
 opening tag <p> and closing tag </p>
 
