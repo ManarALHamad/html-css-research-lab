@@ -1,0 +1,95 @@
+HTML AND CSS RESEARCH NOTES
+
+======================================================================
+PART 1: HTML
+
+1. In your own words, what kind of things can HTML put on a web page?
+
+ANSWER:
+
+Html can be useful when it comes to organising the main structure of the web page, its responsible for declaring paragraphs, titles and headers.
+
+2. What does HTML stand for?
+
+ANSWER:
+
+HyperText Markup language
+
+3. Look up one HTML tag. Examples: h1, p, a, img.
+
+Which tag did you choose?
+
+ANSWER: h1
+
+What does that tag do?
+
+ANSWER:
+
+First Heading
+
+4. In the HTML below, how many tags are there?
+
+<p>Hello world!</p>
+
+ANSWER:
+
+opening tag <p> and closing tag </p>
+
+5.  In the HTML below, which parts are the tags, and which part is the content?
+
+
+<h1>Welcome to my website</h1>
+
+ANSWER:
+
+<h1> & </h1>
+
+6. How does a closing tag differ from an opening tag?
+
+ANSWER:
+
+/ 
+
+7. What is the difference between a tag and an element
+
+ANSWER:
+
+a tag is like the definition of an element for example if its a paragraph <p></p>.
+an element is the content inside the tag for example <p>Hello</p>
+
+PART 2: CSS
+
+8. In your own words, what is the main job of CSS?
+
+ANSWER:
+
+Its responsible for the style and design like colors of the web page.
+
+
+9. What does CSS stand for?
+
+
+ANSWER:
+
+Cascading Style Sheets
+
+10. A developer can put CSS in a separate CSS file.  Why might this be helpful when building a website?
+
+ANSWER:
+
+Its helps making the work easier and more organised.
+
+PART 3: JAVASCRIPT CONNECTION
+
+11. In your own words, what can JavaScript do?
+
+ANSWER:
+
+It can be used for the functions and the manipulation of data.
+
+12. Are JavaScript and Java the same language?
+
+ANSWER:
+
+no
+
